@@ -4,10 +4,16 @@ APPLICATION WINDOWS 8.1 SILVERLIGHT
 USERS FAVORITES PLACES
 ----------------------
 
-TODO :
+   * Main screen
+      * Start/stop tracking button
+      * Show tracking data button
+      * Show clustered data button
 
-- GÈnÈrer jeu de donnÈes pertinent -> Modifier l'algo ( input nb clusters )
+   * Show tracking data
+      * Liste des infos de g√©olocalisation
+      * Carte qui affiche le lieu ou l'on se trouve
 
-- Preparer le package ‡ livrer ( SleepCycle + GPS + GenerationDonnÈes )
-
-- Finir Wiki, bien expliquer comment faire fonctionner le(s) projet(s)
+   * Show clustered data
+      * Carte avec les coordonn√©es enregistr√©es et color√©es via k-means
+      * Modifier le nombre de clusters
+      * Renommer les clusters
